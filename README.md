@@ -1,5 +1,5 @@
  Hi there,A'm Alfonce Morara
-Am a computer science student
+Am an IT enthusiast
 
 - 🔭 I’m currently working on developing responsive websites and learning javascript(react and nodejs)
 - 🌱 I’m currently enrolled in the alx africa  software engineering programme.
