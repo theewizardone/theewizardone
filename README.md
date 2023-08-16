@@ -8,3 +8,8 @@ Am an IT enthusiast
 - 😄 I am passionate about coding
 - ⚡ Dare to archieve!Dare to aspire!
 
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Theewizardorne&label=Profile%20Views&pretty=false" />
+</a>
