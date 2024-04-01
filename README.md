@@ -1,7 +1,6 @@
             # 💫 Hello there🤓,I am Alfonce Morara
-                                                                  Deriving solutions through coding  
-
-. ✨I am currently working on Backend Development.<br>.😎 I am also working on UI/UX design<br>.🦈I am a web developer<br>.👌I am looking forward to collaborate with anyone to do projects.<br>.📃How to reach me alfoncemorara412@gmail.com<br>
+                                                                <br>  Deriving solutions through coding<br>  
+ ✨I am currently working on Backend Development.<br>😎 I am also working on UI/UX design<br>🦈I am a web developer<br>👌I am looking forward to collaborate with anyone to do projects.<br>📃How to reach me alfoncemorara412@gmail.com<br>
 
 
 ## 🌐 Socials:
